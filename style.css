@@ -1,0 +1,17 @@
+#quiz-form{
+    border: 1px solid black;
+    width:500px;
+    height: 420px;
+   /*  background-color: red; */
+    margin:auto;
+    border-radius: 3px;
+    transform: rotateY(20deg) rotateX(20deg);
+  transform-origin: center center;
+  transition: transform 0.5s ease-in-out;
+}
+.checks{
+    margin-left:200px;
+    height:50px;
+    width:100px;
+    border-radius: 3px;
+}
